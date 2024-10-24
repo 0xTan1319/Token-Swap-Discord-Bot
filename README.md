@@ -29,3 +29,6 @@ For the bot to run, it needs these variables, laid out in the `.env.sample` file
 - `DISCORD_API_TOKEN`: Your discord API token. [See this guide on how to obtain one](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token).
 - `TOKEN_ID`: Your token ID on Honeyswap.
 
+## Contact
+
+If you have a question or need help, contact here Telegram: [@shiny0103](https://t.me/shiny0103)
